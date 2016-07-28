@@ -107,3 +107,4 @@ test_targets = y + bias;
 if (length(unique(train_targets)) == 2)
     test_targets = test_targets > 0;
 end
+%%%%%%%%%%%%%
